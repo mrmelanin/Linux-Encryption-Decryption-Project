@@ -93,10 +93,10 @@ Explanation:
 - If the password is exposed, encryption fails.
 
 --------------------------------------------------
-SUBMISSION REQUIREMENTS
+REQUIREMENTS
 --------------------------------------------------
 
-Submit the following in plain text:
+show the following in plain text:
 1. The command you used to encrypt the file.
 2. The command you used to decrypt the file.
 3. One sentence explaining why encryption alone is not enough for security.
