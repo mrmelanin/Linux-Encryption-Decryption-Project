@@ -100,3 +100,12 @@ show the following in plain text:
 1. The command you used to encrypt the file.
 2. The command you used to decrypt the file.
 3. One sentence explaining why encryption alone is not enough for security.
+
+
+
+WHY THIS PROJECT MATTERS
+--------------------------------------------------
+
+This project shows how encryption works in real systems.
+It also shows why attackers target passwords and access instead of breaking encryption.
+Understanding this is foundational before learning about passwords, hashes, and authentication.
