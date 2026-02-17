@@ -99,12 +99,12 @@ REQUIREMENTS
 show the following in plain text:
 1. The command you used to encrypt the file.
 
-. <img width="1346" height="206" alt="VirtualBox_Kali Linux_16_02_2026_17_59_40" src="https://github.com/user-attachments/assets/15d6ea99-99cd-405c-9f39-1e0fcee8a644" />
+ <img width="1346" height="206" alt="VirtualBox_Kali Linux_16_02_2026_17_59_40" src="https://github.com/user-attachments/assets/15d6ea99-99cd-405c-9f39-1e0fcee8a644" />
 
 
 2. The command you used to decrypt the file.
 
-. <img width="1366" height="140" alt="VirtualBox_Kali Linux_16_02_2026_18_01_46" src="https://github.com/user-attachments/assets/92f5c6d0-b689-43c6-b2d4-8b35792b32cf" />
+ <img width="1366" height="140" alt="VirtualBox_Kali Linux_16_02_2026_18_01_46" src="https://github.com/user-attachments/assets/92f5c6d0-b689-43c6-b2d4-8b35792b32cf" />
 
 
 3. One sentence explaining why encryption alone is not enough for security.
